@@ -1,8 +1,4 @@
 q::
-Send, 9e8e7gmmm6gmmm
+Send, 9ee8ee7gmmm6gmmm
 Return
 
-Enter::
-Suspend
-Send {Enter}
-return
